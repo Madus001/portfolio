@@ -1,0 +1,135 @@
+/* TITLE SECTION */
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-weight: 700;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    padding-bottom: 2rem;
+}
+
+.madus-pic {
+    border-radius: 100%;
+    margin-bottom: 2rem;
+}
+
+
+.top {
+    background-color: #EFFFFD;
+    padding-top: 50px;
+}
+
+
+h2.civil {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal; 
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEF9A7;
+    font-weight: bold;
+
+}
+
+p {
+    color: white;
+    line-height: 2;
+}
+
+body {
+    color: #40514e;
+    margin: 0px;
+    text-align: center;   
+    font-family: 'Merriweather', serif;
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 400px;
+}
+.topcloud {
+    position: absolute;
+    right: 300px;
+}
+
+/* ABOUT ME */
+.fa-4x {
+    margin-bottom: 1rem;
+}
+.my-xtics {
+    margin: 2rem auto;
+}
+/* SKILL section */
+.left-col {
+    text-align: right;
+}
+
+.right-col {
+    text-align: left;
+}
+
+.white-star {
+    color: white;
+}
+.fa-2x {
+    color: #40514e;
+}
+
+.row {
+    margin: 1.5rem 0;
+}
+
+.middle-container {
+    padding-top: 30px;
+    background-color: #97C4B8;
+}
+
+/* CONTACT ME */
+.message-area {
+    width: 70%;
+}
+.message-text {
+    margin-top: 20px;
+}
+
+.footer-link {
+    color: #11999e;
+}
+
+.profile {
+    padding-bottom: 30px;
+}
+hr {
+    width: 5pc;
+    border-width: 10px 0 0 0;
+    border-style: dotted;
+    border-color: grey;
+    
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+padding: 3% 15%;
+}
+
+.anty {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding-top: 10px;
+}
+
+.faas {
+    margin: 0 1rem;
+    color: #242F9B;
+}
+
+@media (max-width: 1300px) {
+    .bottomcloud {
+        position: static;
+    }
+   .left-col, .right-col {
+       text-align: center;
+   }
+}
